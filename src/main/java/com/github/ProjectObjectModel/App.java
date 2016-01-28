@@ -1,4 +1,4 @@
-package pl.google.ProjectObjectModel;
+package com.github.ProjectObjectModel;
 
 /**
  * Hello world!
